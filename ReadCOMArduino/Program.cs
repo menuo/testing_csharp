@@ -35,7 +35,7 @@ namespace ReadCOMArduino
         {
             SerialPort sp = (SerialPort)sender;
             string indata = sp.ReadExisting();
-            Debug.Print("Data Received:");
+            Debug.Print("Datos Recividos : ");
             Debug.Print(indata);
         }
     }
