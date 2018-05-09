@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.IO.Ports;
 using System.Diagnostics;
-
+hola;
 namespace ReadCOMArduino
 {
     class Program
